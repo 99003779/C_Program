@@ -1,7 +1,7 @@
 # Example Implementations and Learnings
 |Build|Unit Test|cppcheck|Valgrind|Codacy|
 |:--:|:--:|:--:|:--:|:--:|
-|[![C/C++ CI][![C/C++ CI](https://github.com/99003779/C_Program/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/99003779/C_Program/actions/workflows/c-cpp.yml)
+|[![C/C++ CI](https://github.com/99003779/C_Program/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/99003779/C_Program/actions/workflows/c-cpp.yml)
 ## Integrated Tools to GitHub
 *  [Codacy](https://www.codacy.com/)
 
